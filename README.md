@@ -24,6 +24,7 @@ Data Visualization: Visualized data distributions, correlations, and survival ou
 
 ## Visualizations
 The project includes several key visualizations:
+
 Histograms: To explore the distribution of key features like age, fare, and passenger class.
 
 Box Plots & Violin Plots: To identify outliers and compare feature distributions across survival outcomes.
