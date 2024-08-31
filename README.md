@@ -8,12 +8,12 @@ The dataset used in this project is the Titanic dataset from Kaggle. It contains
 
 ## Key Steps
 
-Data Cleaning & Preparation:
+### Data Cleaning & Preparation:
 Handled missing values using median and mode imputation.
 
 Removed duplicate entries to ensure data integrity.
 
-Exploratory Data Analysis:
+### Exploratory Data Analysis:
 Univariate Analysis: Used histograms and summary statistics to explore individual features.
 
 Bivariate Analysis: Employed box plots, violin plots, and correlation matrices to examine relationships between variables.
